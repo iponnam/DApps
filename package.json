@@ -1,0 +1,24 @@
+{
+  "name": "mocha-hands-on",
+  "version": "0.0.0",
+  "description": "Mocha hands on DApps",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha './**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/DApps/mocha-hands-on\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[DApps/mocha-hands-on"
+  },
+  "keywords": [
+    "mocha",
+    "hands-on",
+    "dapps"
+  ],
+  "author": "iponnam",
+  "license": "GPL-3.0"
+}
